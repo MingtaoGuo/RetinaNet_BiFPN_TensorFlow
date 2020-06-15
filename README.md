@@ -25,13 +25,10 @@ Pascal Voc: http://pjreddie.com/media/files/VOCtrainval_06-Nov-2007.tar
 4. numpy
 5. cv2
 # Results
-|Total Loss|Class Loss|Box Loss|
-|-|-|-|
-|![](https://github.com/MingtaoGuo/RetinaNet_TensorFlow/blob/master/IMGS/total_loss.jpg)|![](https://github.com/MingtaoGuo/RetinaNet_TensorFlow/blob/master/IMGS/class_loss.jpg)|![](https://github.com/MingtaoGuo/RetinaNet_TensorFlow/blob/master/IMGS/box_loss.jpg)|
-
 ![](https://github.com/MingtaoGuo/RetinaNet_BiFPN_TensorFlow/blob/master/IMGS/1.jpg)
 
 # Reference
 [1] Lin, Tsung-Yi, et al. "Focal loss for dense object detection." Proceedings of the IEEE international conference on computer vision. 2017.
+[2] 
 # Author
 Mingtao Guo
