@@ -22,5 +22,5 @@ D_class = 3
 
 EPSILON = 1e-8
 
-XML_PATH = "E:/数据集/VOCtrainval_06-Nov-2007/VOCdevkit/VOC2007/Annotations/"
-IMG_PATH = "E:/数据集/VOCtrainval_06-Nov-2007/VOCdevkit/VOC2007/JPEGImages/"
+XML_PATH = "./VOCdevkit/VOC2007/Annotations/"
+IMG_PATH = "./VOCdevkit/VOC2007/JPEGImages/"
